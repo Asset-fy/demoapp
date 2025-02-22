@@ -24,8 +24,8 @@ const AssetsArea: React.FC<{ activeTab: string }> = ({ activeTab }) => {
     },
     {
       id: 2,
-      name: "Industry Alpha",
-      icon: "https://www.industryalpha.net/wp-content/uploads/2023/07/Industry-Alpha%E9%BB%92%E3%83%AD%E3%82%B4.png",
+      name: "Groq",
+      icon: "https://www.ciscoinvestments.com/assets/logos/groq-logo.png",
       amount: 50,
     },
     {

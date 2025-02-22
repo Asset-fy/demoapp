@@ -55,9 +55,9 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between">
           {/* タイトルとナビゲーションをまとめて横並びに */}
           <div className="flex items-center gap-8">
-            <div className="text-2xl font-bold text-white">
+            <Link href="/" className="text-2xl font-bold text-white hover:opacity-80 transition-opacity">
               Assetfy
-            </div>
+            </Link>
             {/*  */}
           </div>
 

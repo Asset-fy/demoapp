@@ -28,7 +28,7 @@ const AssetTable: React.FC = () => {
       daysRemaining: 930,
       targetAmount: 240000000,
       currentAmount: 176770000,
-      interestRate: "19.5%",
+      interestRate: "19.5%"
     },
     {
       id: 2,
