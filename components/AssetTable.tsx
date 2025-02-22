@@ -32,8 +32,8 @@ const AssetTable: React.FC = () => {
     },
     {
       id: 2,
-      logo: "https://www.industryalpha.net/wp-content/uploads/2023/07/Industry-Alpha%E9%BB%92%E3%83%AD%E3%82%B4.png",
-      name: "Industry Alpha",
+      logo: "https://www.ciscoinvestments.com/assets/logos/groq-logo.png",
+      name: "Groq",
       maturityDate: "2026-06-30",
       currentDate: "2023-06-15",
       daysRemaining: 1111,
