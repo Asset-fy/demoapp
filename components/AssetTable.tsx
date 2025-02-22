@@ -21,8 +21,8 @@ const AssetTable: React.FC = () => {
   const assets = [
     {
       id: 1,
-      logo: "https://www.renatus-robotics.com/jp/wp-content/uploads/2022/11/renatus_logo_1120.png",
-      name: "Renatus Robotics",
+      logo: "https://cdn.worldvectorlogo.com/logos/toyota-1.svg",
+      name: "toyota",
       maturityDate: "2025-12-31",
       currentDate: "2023-06-15",
       daysRemaining: 930,

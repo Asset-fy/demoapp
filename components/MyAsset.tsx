@@ -18,8 +18,8 @@ const AssetsArea: React.FC<{ activeTab: string }> = ({ activeTab }) => {
   const [assets, setAssets] = useState<Asset[]>([
     {
       id: 1,
-      name: "Renatus Robotics",
-      icon: "https://www.renatus-robotics.com/jp/wp-content/uploads/2022/11/renatus_logo_1120.png",
+      name: "Toyota",
+      icon: "https://cdn.worldvectorlogo.com/logos/toyota-1.svg",
       amount: 100,
     },
     {

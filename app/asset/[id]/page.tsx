@@ -18,16 +18,16 @@ const AssetDetail: React.FC<AssetDetailProps> = ({ params }) => {
 
   // This is mock data. In a real application, you'd fetch this data based on the asset ID.
   const companyData = {
-    name: "Renatus Robotics",
-    logo: "https://www.renatus-robotics.com/jp/wp-content/uploads/2022/11/renatus_logo_1120.png",
+    name: "Toyota",
+    logo: "https://cdn.worldvectorlogo.com/logos/toyota-1.svg",
     totalFunding: "$240,000,000",
     currentFunding: "$176,770,000",
     interestRate: "3.5%",
     maturityDate: "2025-12-31",
-    videoUrl: "https://www.youtube.com/embed/sTPLCbUItrk", // Replace with actual video URL
-    tokenName: "ARCS-RNT",
+    videoUrl: "https://www.youtube.com/embed/qexKT52cXuI", // Replace with actual video URL
+    tokenName: "ARCS-TOYOTA",
     description:
-      "Renatus Robotics is pioneering the future of autonomous robotics systems. Our technology combines advanced AI with precision engineering to create robots that can adapt to complex environments and perform sophisticated tasks. With a focus on industrial applications, we're working to revolutionize manufacturing, logistics, and automation across various sectors.",
+      "Toyota is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on .",
   }
 
   return (
